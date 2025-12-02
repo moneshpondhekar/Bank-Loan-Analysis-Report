@@ -62,10 +62,10 @@ It also includes **slicers, donut charts, bar charts, KPIs, and interactive filt
 
 ---
 
+`  
 ## 📁 Dataset Source
-Your dataset is stored in this repository:  
-**Dataset:** `https://github.com/moneshpondhekar/Bank-Loan-Analysis-Report/blob/main/Bank_Loan_Data.xlsx`  
-
+The dataset used in this project is available in this repository:  
+**Dataset:** [Bank_Loan_Data.xlsx](https://github.com/moneshpondhekar/Bank-Loan-Analysis-Report/blob/main/Bank_Loan_Data.xlsx)
 ---
 
 ## 💬 How to Use
