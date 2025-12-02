@@ -64,9 +64,7 @@ It also includes **slicers, donut charts, bar charts, KPIs, and interactive filt
 
 ## 📁 Dataset Source
 Your dataset is stored in this repository:  
-**Dataset:** `Raw_Data.xlsx`  
-
-*(You can also upload a CSV version for better transparency.)*
+**Dataset:** `https://github.com/moneshpondhekar/Bank-Loan-Analysis-Report/blob/main/Bank_Loan_Data.xlsx`  
 
 ---
 
