@@ -82,7 +82,7 @@ Your dataset is stored in this repository:
 *(Replace with your uploaded screenshot path)*  
 
 **Main Dashboard Preview:**  
-![Dashboard Preview](path-to-your-image.png)  
+![Dashboard Preview](https://github.com/moneshpondhekar/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Screenshot1.png)  
 
 ---
 
