@@ -77,10 +77,9 @@ The dataset used in this project is available in this repository:
 ---
 
 ## 📸 Dashboard Preview
-*(Replace with your uploaded screenshot path)*  
-
 **Main Dashboard Preview:**  
-![Dashboard Preview](https://github.com/moneshpondhekar/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Screenshot1.png)  
+![Dashboard Preview](https://github.com/moneshpondhekar/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Screenshot1.png)
+
 
 ---
 
